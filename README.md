@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Daijel</h1>
-<h3 align="center">A passionate Software Engineer from Serbia</h3>
+<h1 align="center">Hi 👋, I'm Danijel</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danijel88&label=Profile%20views&color=0e75b6&style=flat" alt="danijel88" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
